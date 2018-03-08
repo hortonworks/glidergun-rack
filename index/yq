@@ -1,0 +1,5 @@
+latest linux_amd64 https://github.com/mikefarah/yq/releases/download/1.14.0/yq_linux_amd64 af3626e9c57493695e8bc9658089a2c7
+latest darwin_amd64 https://github.com/mikefarah/yq/releases/download/1.14.0/yq_darwin_amd64 89efe5f27e9e212a372d3701bf402f73
+
+1.14.0 linux_amd64 https://github.com/mikefarah/yq/releases/download/1.14.0/yq_linux_amd64 af3626e9c57493695e8bc9658089a2c7
+1.14.0 darwin_amd64 https://github.com/mikefarah/yq/releases/download/1.14.0/yq_darwin_amd64 89efe5f27e9e212a372d3701bf402f73
