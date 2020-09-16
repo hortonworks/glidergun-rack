@@ -1,6 +1,9 @@
 latest linux_amd64 https://github.com/docker/compose/releases/download/1.13.0/docker-compose-Linux-x86_64 13196d9b1c3f3be0964b7536c39348b5
 latest darwin_amd64 https://github.com/docker/compose/releases/download/1.13.0/docker-compose-Darwin-x86_64 f62b34065afd55945f38a25174fc62b7
 
+1.27.2 linux_amd64 https://github.com/docker/compose/releases/download/1.27.2/docker-compose-Linux-x86_64 33177601f5686529355ddd9bff4d9d73
+1.27.2 darwin_amd64 https://github.com/docker/compose/releases/download/1.27.2/docker-compose-Darwin-x86_64 ddfd21b5b8b955954a277dff50b62eef
+
 1.23.2 linux_amd64 https://github.com/docker/compose/releases/download/1.23.2/docker-compose-Linux-x86_64 7f508b543123e8c81ca138d5b36001a2
 1.23.2 darwin_amd64 https://github.com/docker/compose/releases/download/1.23.2/docker-compose-Darwin-x86_64 8401aeb79bcc06632b17733d78b76fcf
 
